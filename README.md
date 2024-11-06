@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://i.imgur.com/xlYwPUf.png" alt="Permissions Photo"/>
-</p>
-
 <h1>Understanding File Permissions</h1>
 In this lab, we focus on managing file permissions and shares in the context of an Active Directory domain. Proper file permissions and shares are vital in a business setting to grant users the appropriate access to the files they require. This builds upon a prior lab where I have a client connected to the domain ernestotest.com. I am logged in as Jane Doe (administrator) on the domain controller VM and as a regular user on the client VM <br />
 
